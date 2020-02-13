@@ -15,7 +15,7 @@
 
 ## 下载
 
-点击 [这里](.)
+点击 [这里](https://github.com/Chinese-Traditional-Culture/SanShiLiuJi/releases/tag/v0.0.1)
 
 ## License
 
